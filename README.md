@@ -2,4 +2,6 @@
 # COHORT:         13.
 # Repo:           alx-maze_project :floppy_disk:
 
-# Tasks :page_with_curl:
+# Tasks :page_with_curli:
+
+# ~~Background Context~~
