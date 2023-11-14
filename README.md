@@ -1,8 +1,8 @@
-# AUTHOR:         [DAVID OJEIFO](https://github.com/Kingvadee).
-# COHORT:         13. :joypad:
-# Repo:           alx-maze_project :floppy_disk: :rocket:
+# AUTHOR:         [DAVID OJEIFO](https://github.com/Kingvadee). :briefcase:
+# COHORT:         13.
+# Repo:           alx-maze_project :floppy_disk: :video_game:
 
 # Tasks :page_with_curli:
 
 # ~~Background Context~~
-# The goal of this project is to create a game in 3D using raycasting ! :gamepad: :rocket:
+# * The goal of this project is to create a game in 3D using raycasting ! :video_game: :rocket:
