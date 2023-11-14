@@ -1,6 +1,6 @@
-# AUTHOR:         DAVID OJEIFO[https://github.com/Kingvadee].
-# COHORT:         13.
-# Repo:           alx-maze_project :floppy_disk: :gamepad: :rocket:
+# AUTHOR:         [DAVID OJEIFO](https://github.com/Kingvadee).
+# COHORT:         13. :joypad:
+# Repo:           alx-maze_project :floppy_disk: :rocket:
 
 # Tasks :page_with_curli:
 
