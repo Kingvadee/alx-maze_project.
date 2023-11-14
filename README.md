@@ -3,5 +3,5 @@
 # Repo:           alx-maze_project :floppy_disk: :video_game: :dart:
 # Tasks :page_with_curli:
 
-# ~~Background Context~~
-# * The goal of this project is to create a game in 3D using raycasting ! :video_game: :rocket:
+# Background Context: x^2
+   *  The goal of this project is to create a game in 3D using raycasting ! :video_game: :rocket:
