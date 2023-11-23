@@ -28,6 +28,11 @@
    headers in a `inc`, `headers` or `dependencies` folder.
 
 ### Tips and links:bulb:&:link:
+ * Simple DirectMedia Layer(SDL) Version 2.0
+---
+[SDL2](https://www.libsdl.org/)
+ * Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software,emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
+
  * [SDL2 - Get started.pdf](https://intranet.alxswe.com/rltoken/pMnvq93vpbAh9q6inKQMuQ)
  * [SDL2 tutorials](https://intranet.alxswe.com/rltoken/oona0Kd1yVyjHQGoJaV_aw)
  * Be careful with tutorials/help online: We are using `SDL2`, and not `SDL-1.2` !
