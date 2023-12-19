@@ -1,19 +1,17 @@
 ---
-Welcome to the alx-maze_project. wiki!: default
+## Welcome to the Maze Project
 ---
 
 # ![maze.png](https://pbs.twimg.com/media/GBri_JNWwAAn62C?format=png&name=small)
 ***
+### Project Name: 3D Maze Explorer :tv::video_game::dart:
+**Tagline:** "Journey into the Depths of Raycasting Adventures"
+[DEMO](https://x.com/king_dave0496/status/1736925344630820988?s=20)
 
-## Welcome to the Maze Project
-
-[Link to Deployed Project]()
-
-### Features
-
-1. **Feature 1**
-   - Image or GIF
-   - Description of the feature
+## **Team**
+### 👨‍🎓[David Ojeifo.](https://github.com/Kingvadee/alx-maze_project): Lead Developer, Raycasting Expert,👨‍💻
+### Graphics and Textures Specialist, Project Manager,
+### Quality Assurance. :floppy_disk:
 
 2. **Feature 2**
    - Image or GIF
