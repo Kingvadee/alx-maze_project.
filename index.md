@@ -56,4 +56,7 @@ The 3D Maze Explorer aims for educational purposes and hands-on learning, allowi
 The project will not delve into complex multiplayer functionality or advanced AI enemies. While it focuses on providing an immersive 3D maze experience, it won't cover every aspect of a full-fledged game development pipeline.
 However, this project will be beneficial for individuals interested in game development, particularly those keen on understanding raycasting and its application in creating visually engaging 3D environments. Users may include students, developers, and enthusiasts looking to explore the intricacies of maze exploration games.
 #### NOTE: _This project is not dependent on any specific locale. It is designed to be universally applicable and accessible to users worldwide._
+    - [Twitter](https://twitter.com/king_dave0496)
+    - [LinkedIn](https://www.linkedin.com/in/david-ojeifo-42781a239/)
+    - [Discord](https://discord.com/@kingdave_77127)
 
