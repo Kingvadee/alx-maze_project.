@@ -14,15 +14,7 @@
    - ### Quality Assurance. :floppy_disk:
 
 ### About
+   -The project will not delve into complex multiplayer functionality or advanced AI enemies. While it focuses on providing an immersive 3D maze experience, it won't cover every aspect of a full-fledged game development pipeline.
+   -However, this project will be beneficial for individuals interested in game development, particularly those keen on understanding raycasting and its application in creating visually engaging 3D environments. Users may include students, developers, and enthusiasts looking to explore the intricacies of maze exploration games.
+#### NOTE: _This project is not dependent on any specific locale. It is designed to be universally applicable and accessible to users worldwide._
 
-This project was inspired by [insert personal story here]. It is a portfolio project for Holberton School.
-
-#### Team Members
-
-- [Team Member 1](https://www.linkedin.com/in/team-member-1/)
-  - GitHub: [GitHub Profile](https://github.com/team-member-1)
-  - Twitter: [Twitter Profile](https://twitter.com/team-member-1)
-
-### GitHub Repository
-
-[Link to GitHub Repository](https://github.com/your-username/your-repo)
