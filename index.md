@@ -1,8 +1,9 @@
 ---
-layout: default
+Welcome to the alx-maze_project. wiki!: default
 ---
 
-# Maze Project
+# ![maze.png](https://pbs.twimg.com/media/GBri_JNWwAAn62C?format=png&name=small)
+***
 
 ## Welcome to the Maze Project
 
