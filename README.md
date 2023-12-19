@@ -1,11 +1,11 @@
-# AUTHOR:         [DAVID OJEIFO](https://github.com/Kingvadee).:briefcase:
+# AUTHOR:         [DAVID OJEIFO](https://github.com/Kingvadee).
 # COHORT:         13.
-# Repo:           alx-maze_project:tv::floppy_disk::video_game::dart:
+# Repo:           alx-maze_project:tv::video_game::dart:
 # Tasks :page_with_curl:
 
 # Background Context:bulb:
    *  The goal of this project is to create a game in 3D using raycasting !:video_game:
-      You don¿t have to do the tasks in order, except for the first one (obviously),
+      You donÂ¿t have to do the tasks in order, except for the first one (obviously),
       or if a task depends on a previous one.
    *  You have a link :link: to a very good and very long tutorial about raycasting in the :point_right: [Tips and links.](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/misc/2021/1/9da3b82dc0bcfea07858b70956de47f0e2db2dad.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231114%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231114T181815Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ca81f04ee1d4fa253ae436e324d8060e0c4706fea99e41eaf45e6554e88db015) section in the [README_file](https://github.com/Kingvadee/alx-maze_project./blob/master/README.md)below :point_down:
       so read it very carefully, and practice !
@@ -38,20 +38,20 @@
  * Be careful with tutorials/help online: We are using `SDL2`, and not `SDL-1.2` !
  * [RAYCASTING !!!](https://intranet.alxswe.com/rltoken/vRw7CP21mUmKFDdrQjQ2GA)
  * [Alternative Raycasting Tutorial](https://intranet.alxswe.com/rltoken/dnQwzgrDUEhFXIF8sNivkg)
- * Don¿t forget to **install SDL2** [SDL2 tutorials](https://intranet.alxswe.com/rltoken/oona0Kd1yVyjHQGoJaV_aw)
+ * DonÂ¿t forget to **install SDL2** [SDL2 tutorials](https://intranet.alxswe.com/rltoken/oona0Kd1yVyjHQGoJaV_aw)
  * There are no forbidden functions for this project. You are allowed to use any
    system call and/or standard library function.
  * You are allowed to use [all the functions provided by SDL2](https://intranet.alxswe.com/rltoken/bmGynXNHzUObCE08XuoCQg)
 #### TASK: :page_with_curl:
  * **0. Walls !**
- * In this first part, you¿ll have to:
+ * In this first part, youÂ¿ll have to:
  * 1.	Create a window with SDL2
  * 2.	Use raycasting to draw walls on your window !
- * 3.	You don¿t need to be able to rotate the camera during the execution in this part,
+ * 3.	You donÂ¿t need to be able to rotate the camera during the execution in this part,
    	but you must provide a way to change the angle of the camera in your code to see
   	if it works after recompiling it.
  * 4.	The color of the walls must be different from the color of the ground/ceil
- * 5.	The map doesn¿t need to be parsed from a file, but you must provide a way to modify
+ * 5.	The map doesnÂ¿t need to be parsed from a file, but you must provide a way to modify
    	it in your code to see if it works after recompiling it. (e.g. using an array of
    	arrays of integers or characters).
  * **EXAMPLE:**
