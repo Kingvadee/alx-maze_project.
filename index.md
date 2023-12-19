@@ -10,10 +10,8 @@
 
 ## **Team**
 ### 👨‍🎓[David Ojeifo.](https://github.com/Kingvadee/alx-maze_project): Lead Developer, Raycasting Expert,👨‍💻
-
-### Quality Assurance. :floppy_disk:
    - ### Graphics and Textures Specialist, Project Manager,
-   - Description of the feature
+   - ### Quality Assurance. :floppy_disk:
 
 ### About
 
