@@ -1,5 +1,6 @@
 #include "maze.h"
 
+
 // Define the maze map with 1s as walls and 0s as open spaces
 int map[225] = {
 	1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1,
