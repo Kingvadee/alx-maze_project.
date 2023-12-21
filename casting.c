@@ -1,5 +1,6 @@
 #include "maze.h"
 
+
 // Function to check if a given point is on a wall in the maze
 bool wall_pun(Vector pt)
 {
